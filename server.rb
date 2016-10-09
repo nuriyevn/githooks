@@ -1,3 +1,9 @@
+=begin
+./ngrok http 4567
+and then
+just copy the server name and create a webhooks
+=end
+
 require 'sinatra'
 require 'json'
 
